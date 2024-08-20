@@ -1,0 +1,19 @@
+{
+  "name": "namaste",
+  "version": "1.0.0",
+  "description": "This is all about namaste react app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rambalak73/reactJS.git"
+  },
+  "author": "Rambalak Shahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rambalak73/reactJS/issues"
+  },
+  "homepage": "https://github.com/rambalak73/reactJS#readme"
+}
